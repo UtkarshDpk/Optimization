@@ -1,0 +1,2 @@
+# Optimization
+The project shows the implementation of six diﬀerent optimization methods using line search algorithm. The line search algorithm ﬁnds an alpha value satisfying the Wolfe conditions and the code is based on the pseudo-code in the paper "Algorithm 851: CG DESCENT, a Conjugate Gradient Method with Guaranteed Descent" by William W. Hager and Hongchao Zhang. The methods are - **Steepest Descent**, **Newton’s method** and four **Quasi Newton Methods - BFGS, Inverse BFGS, DFP** and **Inverse DFP**.
